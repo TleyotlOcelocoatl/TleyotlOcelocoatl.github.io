@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://tyoc.mx/sitemap.xml
+Sitemap: https://www.tyoc.mx/sitemap.xml
