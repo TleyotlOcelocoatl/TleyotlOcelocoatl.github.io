@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://tyoc.mx/sitemap.xml
